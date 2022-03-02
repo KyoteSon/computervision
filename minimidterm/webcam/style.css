@@ -43,6 +43,7 @@ header {
   left: 0;
   right: 0; 
     */
+
 }
 
 /* h1 {
@@ -55,7 +56,7 @@ header {
 
 
 
-a {
+/* a {
   color: var(--font-clr);
   text-decoration: none;
   font-size: var(--font-size);
@@ -79,7 +80,7 @@ a {
 
 a:hover {
   color: var(--clr-hover);
-}
+} */
 
 canvas {
   display: block;
@@ -89,4 +90,5 @@ canvas {
   transform: translate(-50%, -50%);
   /* border: 5px solid #ffffff; */
   box-shadow:  0px 0px 80px rgb(0, 0, 0);
+  border-radius: 10%;
 }
